@@ -503,6 +503,15 @@
         "name": "candleraw4",
         "smoothed": false,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Battery.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Battery",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1004,7 +1013,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.44819780454104474,
+        "zoomFactor": 2.7773965524836086,
         "windowMask": false
       },
       "objectsGroups": [
@@ -2666,24 +2675,46 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "acceleration": 1500,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
-              "name": "",
+              "name": "Battery",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "battery.png",
+                      "image": "Battery",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
-                        "x": 16,
-                        "y": 16
+                        "x": 7.5,
+                        "y": 34.5
                       },
                       "centerPoint": {
                         "automatic": true,
@@ -2698,16 +2729,64 @@
                             "y": 0
                           },
                           {
-                            "x": 32,
+                            "x": 15,
                             "y": 0
                           },
                           {
-                            "x": 32,
-                            "y": 32
+                            "x": 15,
+                            "y": 34
                           },
                           {
                             "x": 0,
-                            "y": 32
+                            "y": 34
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "battery.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 7.5,
+                        "y": 34.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 15,
+                            "y": 0
+                          },
+                          {
+                            "x": 15,
+                            "y": 34
+                          },
+                          {
+                            "x": 0,
+                            "y": 34
                           }
                         ]
                       ]
