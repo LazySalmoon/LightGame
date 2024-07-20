@@ -2048,6 +2048,15 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/bd06687413e04b1047e3435fbedfd8650d0de8d78f30469ba7469e7d02256ea1_Tracy_StandingCrossbowShot_4.png",
           "name": "Tracy_StandingCrossbowShot_4.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/PlatformBlock.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "PlatformBlock",
+        "smoothed": false,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2549,7 +2558,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.993443349825979,
+        "zoomFactor": 0.9934433498259793,
         "windowMask": false
       },
       "objectsGroups": [
@@ -2575,6 +2584,9 @@
             },
             {
               "name": "LightSensor"
+            },
+            {
+              "name": "PlatformBlock"
             }
           ]
         }
@@ -3174,6 +3186,23 @@
           "x": 269,
           "y": 622,
           "zOrder": 17,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PlatformBlock",
+          "persistentUuid": "2d33284c-f144-4748-b6d4-84ac135f35f7",
+          "width": 1357,
+          "x": -61,
+          "y": 660,
+          "zOrder": -2,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4528,15 +4557,7 @@
           "width": 32,
           "variables": [],
           "effects": [],
-          "behaviors": [
-            {
-              "name": "Platform",
-              "type": "PlatformBehavior::PlatformBehavior",
-              "canBeGrabbed": true,
-              "platformType": "NormalPlatform",
-              "yGrabOffset": 0
-            }
-          ]
+          "behaviors": []
         },
         {
           "assetStoreId": "",
@@ -9884,6 +9905,75 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "PlatformBlock",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "PlatformBlock",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "PlatformBlock",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -10006,6 +10096,9 @@
                 "objectName": "Background2"
               }
             ]
+          },
+          {
+            "objectName": "PlatformBlock"
           }
         ]
       },
@@ -12404,6 +12497,32 @@
       "name": "Player-Sprites",
       "events": [
         {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Invisible Items",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Invisible"
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
           "type": "BuiltinCommonInstructions::Comment",
           "color": {
             "b": 109,
@@ -12659,6 +12778,11 @@
               ]
             },
             {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            },
+            {
               "colorB": 224,
               "colorG": 16,
               "colorR": 189,
@@ -12701,11 +12825,12 @@
                     },
                     {
                       "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                        "value": "PosX"
                       },
                       "parameters": [
                         "player",
-                        "Flippable"
+                        "<",
+                        "Tracy.X()"
                       ]
                     }
                   ],
@@ -12717,7 +12842,7 @@
                       "parameters": [
                         "Tracy",
                         "Flippable",
-                        "no"
+                        "yes"
                       ]
                     }
                   ]
@@ -12738,12 +12863,12 @@
                     },
                     {
                       "type": {
-                        "inverted": true,
-                        "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                        "value": "PosX"
                       },
                       "parameters": [
                         "player",
-                        "Flippable"
+                        ">",
+                        "Tracy.X()"
                       ]
                     }
                   ],
@@ -12755,7 +12880,7 @@
                       "parameters": [
                         "Tracy",
                         "Flippable",
-                        "yes"
+                        "no"
                       ]
                     }
                   ]
@@ -12765,6 +12890,11 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
         }
       ]
     }
