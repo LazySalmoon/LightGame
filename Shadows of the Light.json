@@ -1201,6 +1201,853 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/980ad636945be6df6f3c109a71fc508716c226266cccafca69eb9921129424ca_Tommy_Walking_6.png",
           "name": "Tommy_Walking_6.png"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/flashlight.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "flashlight",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/flashlight2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "flashlight2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/On.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "On",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/On2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/On2.png\"}",
+        "name": "On2",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/On3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/On3.png\"}",
+        "name": "On3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/flashlight3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "flashlight3",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_AerialCrossbowShot_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_AerialCrossbowShot_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/d3e3480fae685ea69ea4a55373d43c73cc10e6e30e4b124131a222a60b799922_Tracy_AerialCrossbowShot_1.png",
+          "name": "Tracy_AerialCrossbowShot_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_AerialCrossbowShot_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_AerialCrossbowShot_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/9c9e7c9ba270cc36f2ec70b40b70786ecb38fca9ee473a56958f011a1572a984_Tracy_AerialCrossbowShot_2.png",
+          "name": "Tracy_AerialCrossbowShot_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_AerialCrossbowShot_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_AerialCrossbowShot_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/4d3e65e73d934f1a3318d9882765b85c586e99375d9c399f87911d728fb72339_Tracy_AerialCrossbowShot_3.png",
+          "name": "Tracy_AerialCrossbowShot_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_AerialCrossbowShot_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_AerialCrossbowShot_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/79f8e00c2b7a64658436baa1f35122d2039843f0edaff9f2928c0e7a41be0fe1_Tracy_AerialCrossbowShot_4.png",
+          "name": "Tracy_AerialCrossbowShot_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Crouch_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Crouch_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/062ca69c62513ff032e56162e4828b4b6dfabbc9d597a20129b2fbb7c8aea679_Tracy_Crouch_1.png",
+          "name": "Tracy_Crouch_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Crouch_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Crouch_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/9371f1a39b3a6009ab16a97c3d22fd1314b871ecca8793e684b61058f34bb127_Tracy_Crouch_2.png",
+          "name": "Tracy_Crouch_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Crouch_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Crouch_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/542d611841461b79a846d8dfc711b0a6ea74136f2afe48d6a2a433825dee8092_Tracy_Crouch_3.png",
+          "name": "Tracy_Crouch_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Falling.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Falling.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/03f4dff08e1fd548f3add46d564a0cabab3a34ba8b1b9662f718a3bbe3651290_Tracy_Falling.png",
+          "name": "Tracy_Falling.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Hurt.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Hurt.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/8a27d0fa67e14051308fc05f1b04442628bdd3744b255da604570bf3c76b8407_Tracy_Hurt.png",
+          "name": "Tracy_Hurt.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle1_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle1_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/ec39a1e2c9baee6c30be85437b8cdfffc3c85920ce45139b0bdba8105dd252e2_Tracy_Idle1_1.png",
+          "name": "Tracy_Idle1_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle1_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle1_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/58ef38f0b799f2705c30dd216d0180bf1838ebb6336bc991b36513a4184415e6_Tracy_Idle1_2.png",
+          "name": "Tracy_Idle1_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle1_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle1_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/0845d5ecf77f30478d73d047d335c7d1da477c6ef25bcfd511b94cdcab844373_Tracy_Idle1_3.png",
+          "name": "Tracy_Idle1_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle1_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle1_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/ea7db6955b68c835dd5a54ec15f833bb28492a89bf0a28900b796505c22c6095_Tracy_Idle1_4.png",
+          "name": "Tracy_Idle1_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle1_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle1_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/1bca27366422e1f105ee51dddb10e3d1c1493cb96f0c2b7d00f8563f7ff0aa67_Tracy_Idle1_5.png",
+          "name": "Tracy_Idle1_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle2_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle2_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/1893bbb9925d12b5c53e29ea65de5c706e01ca24f6346e28f97cdd0322741dfd_Tracy_Idle2_1.png",
+          "name": "Tracy_Idle2_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle2_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle2_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/540e2ae1d0397ba39d803f715482520e4c6958785d5e2a03ec115f85a1fc7619_Tracy_Idle2_2.png",
+          "name": "Tracy_Idle2_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle2_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle2_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/60410cd98456d9d9973273d429af240b36df5b3746799b41c8d7a6bd3674bd3e_Tracy_Idle2_3.png",
+          "name": "Tracy_Idle2_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle2_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle2_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/c76b058ced3a5e221e3c60ab7a1a1aa19d4743b76c03aad41589de892b612484_Tracy_Idle2_4.png",
+          "name": "Tracy_Idle2_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle2_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle2_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/60410cd98456d9d9973273d429af240b36df5b3746799b41c8d7a6bd3674bd3e_Tracy_Idle2_5.png",
+          "name": "Tracy_Idle2_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle2_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle2_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/c76b058ced3a5e221e3c60ab7a1a1aa19d4743b76c03aad41589de892b612484_Tracy_Idle2_6.png",
+          "name": "Tracy_Idle2_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle2_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle2_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/60410cd98456d9d9973273d429af240b36df5b3746799b41c8d7a6bd3674bd3e_Tracy_Idle2_7.png",
+          "name": "Tracy_Idle2_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle2_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle2_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/064eec19470ff816a6240a09181241c38d06f89645cf8e5d9501abd01123a3f8_Tracy_Idle2_8.png",
+          "name": "Tracy_Idle2_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle3_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle3_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/b5d82526c2dd1d23646ecc60c683624e19d2b0410cba443365a2718d749ff64f_Tracy_Idle3_1.png",
+          "name": "Tracy_Idle3_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle3_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle3_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/10a24d9499c5ad25fe1d3e984dad4ac50531417f8987d121400ef74c05e70036_Tracy_Idle3_2.png",
+          "name": "Tracy_Idle3_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle3_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle3_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/64c168442c19c8c607a8049ee210321fcfa2f9357024d135c90c901b9563da45_Tracy_Idle3_3.png",
+          "name": "Tracy_Idle3_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle3_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle3_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/39efde35b47961a9c8a4f88996889910346b8708b5f379679bc872ba59582b9a_Tracy_Idle3_4.png",
+          "name": "Tracy_Idle3_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Idle3_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Idle3_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/3f7c354537fd9d28346828f182b6aa8a9d63f213068b2fa6a958f7068d9e577f_Tracy_Idle3_5.png",
+          "name": "Tracy_Idle3_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_IdleBlink_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_IdleBlink_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/4e21c7e4498ed1e0b820ab54c023e91cbbbce711e494a7c25a58fe60912cdb9f_Tracy_IdleBlink_1.png",
+          "name": "Tracy_IdleBlink_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_IdleBlink_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_IdleBlink_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/6a2f89de4070078b1c2cbb2133bf00f45a2d167eea1dae033ee79ed3292b279c_Tracy_IdleBlink_2.png",
+          "name": "Tracy_IdleBlink_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_IdleBlink_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_IdleBlink_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/ec39a1e2c9baee6c30be85437b8cdfffc3c85920ce45139b0bdba8105dd252e2_Tracy_IdleBlink_3.png",
+          "name": "Tracy_IdleBlink_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Jump.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Jump.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/b025625514c48875058c78ce32c53283d74d0ac4a381782daf3ab218314c71e9_Tracy_Jump.png",
+          "name": "Tracy_Jump.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_LandingAndGetUp_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_LandingAndGetUp_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/1c5310ea49ae2f33f904a65dd921150be1b4a854bdc08f19367d21aad388615c_Tracy_LandingAndGetUp_1.png",
+          "name": "Tracy_LandingAndGetUp_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_LandingAndGetUp_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_LandingAndGetUp_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/22f7488fa3788c7418653a5f1cb5465e10f80a62773ac7d3187f3a8e2f06958e_Tracy_LandingAndGetUp_2.png",
+          "name": "Tracy_LandingAndGetUp_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_LandingAndGetUp_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_LandingAndGetUp_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/9371f1a39b3a6009ab16a97c3d22fd1314b871ecca8793e684b61058f34bb127_Tracy_LandingAndGetUp_3.png",
+          "name": "Tracy_LandingAndGetUp_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_LandingAndGetUp_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_LandingAndGetUp_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/542d611841461b79a846d8dfc711b0a6ea74136f2afe48d6a2a433825dee8092_Tracy_LandingAndGetUp_4.png",
+          "name": "Tracy_LandingAndGetUp_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/d6ab66c97c71e94ea014794ba7a146167bdcbcab065aeef2839a000ada78ab37_Tracy_ReloadingCrossbow_1.png",
+          "name": "Tracy_ReloadingCrossbow_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_10.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/5e929311d8b0e217bef0ebee846915f805471fd354c9ce56a24b74b79232f31d_Tracy_ReloadingCrossbow_10.png",
+          "name": "Tracy_ReloadingCrossbow_10.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_11.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/94f9e4e0577cb1e132b129d3d70150db3f01617f00cafcc5e08712a9ba2cc7a0_Tracy_ReloadingCrossbow_11.png",
+          "name": "Tracy_ReloadingCrossbow_11.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_12.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/6bb8095340e93557539514c4831f58dd29cd19988625c2db5a72d41ff68f45fd_Tracy_ReloadingCrossbow_12.png",
+          "name": "Tracy_ReloadingCrossbow_12.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_13.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/f99fe82d7f05c8f1c9227e94be8adb84aca09ce5e30e6ecbe4f665b506317807_Tracy_ReloadingCrossbow_13.png",
+          "name": "Tracy_ReloadingCrossbow_13.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_14.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/c723c6d57c31d51bbe4c5bfc128320e26931fd13cb42c01a83d1df285f15220e_Tracy_ReloadingCrossbow_14.png",
+          "name": "Tracy_ReloadingCrossbow_14.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_15.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/da4af6a05eddc589bfc5d3dc3ec966abd9cf2cd0d4e86b39bd37a3ff0ab6d9af_Tracy_ReloadingCrossbow_15.png",
+          "name": "Tracy_ReloadingCrossbow_15.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_16.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/6b388dd3d77cf9bbf31f8ee9887c66e8dedee107db50dca03e6291c520857622_Tracy_ReloadingCrossbow_16.png",
+          "name": "Tracy_ReloadingCrossbow_16.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/aee8aabb8f61974f5c645d6ae6cfcc4b263419fa0fa16eb32afae17384a0f445_Tracy_ReloadingCrossbow_2.png",
+          "name": "Tracy_ReloadingCrossbow_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/150cd500d54ae621766b1df3203475ffe13213b43b286c5a1449b5bec31a5432_Tracy_ReloadingCrossbow_3.png",
+          "name": "Tracy_ReloadingCrossbow_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/0eacec3982ecc0892a57ffb10c9a3c0fd1424250aea974484f74a0228fc8c7c5_Tracy_ReloadingCrossbow_4.png",
+          "name": "Tracy_ReloadingCrossbow_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/9837f9e98167861540dd26f1345aa31325b51b2e2b1cb80312fc0403c7523670_Tracy_ReloadingCrossbow_5.png",
+          "name": "Tracy_ReloadingCrossbow_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/4ba1512004b334b29cb3cae6a99f8710c048b1f0f9c003c25e860bd447b2fe44_Tracy_ReloadingCrossbow_6.png",
+          "name": "Tracy_ReloadingCrossbow_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/20b206b3da89093da37c8f376eca02d46294aa17067fec37174d2ad677e4d74c_Tracy_ReloadingCrossbow_7.png",
+          "name": "Tracy_ReloadingCrossbow_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/26696e5a9b3b1dd542f32a411232747aa670e7f5d0d96cc7abed113e10c81884_Tracy_ReloadingCrossbow_8.png",
+          "name": "Tracy_ReloadingCrossbow_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_ReloadingCrossbow_9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_ReloadingCrossbow_9.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/135d8765b16b3a2d71a6df48cd3cd35d01bcc5bac02f2577e33ce91eb41e20e3_Tracy_ReloadingCrossbow_9.png",
+          "name": "Tracy_ReloadingCrossbow_9.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Run_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Run_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/e64bf7d70579af15d21e2c55d15ee468e843e3a8fe7018c8d88b34ec35b38e75_Tracy_Run_1.png",
+          "name": "Tracy_Run_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Run_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Run_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/bf23b2c5495be5de85d3921969eeef76b742531ab9c75d6fbfe0b0101835e606_Tracy_Run_2.png",
+          "name": "Tracy_Run_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Run_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Run_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/a056c1a035fa74a295c27d1fbf19866b54134243ba8cee92397ac6e26795a166_Tracy_Run_3.png",
+          "name": "Tracy_Run_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Run_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Run_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/e64bf7d70579af15d21e2c55d15ee468e843e3a8fe7018c8d88b34ec35b38e75_Tracy_Run_4.png",
+          "name": "Tracy_Run_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Run_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Run_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/a36bb715e0cf547a2e063179970eb9a91feaa2f74a605e919aa78f4bc9a50922_Tracy_Run_5.png",
+          "name": "Tracy_Run_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_Run_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_Run_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/68862c2e1ff19fdc8d7e91a8894c0a4b65d16b4863bc4c8c48445185fe37443f_Tracy_Run_6.png",
+          "name": "Tracy_Run_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_StandingCrossbowShot_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_StandingCrossbowShot_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/94fd3426817378a343b585e4bd7313f8f1fde9c0e9b29a516b91075ed511c667_Tracy_StandingCrossbowShot_1.png",
+          "name": "Tracy_StandingCrossbowShot_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_StandingCrossbowShot_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_StandingCrossbowShot_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/b820ec73acbcb7e5bb73b79407db5dddda121b4aed328d462770011a7ffa9cec_Tracy_StandingCrossbowShot_2.png",
+          "name": "Tracy_StandingCrossbowShot_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_StandingCrossbowShot_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_StandingCrossbowShot_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/5f48e8785be027842c6112542327317a77b95d8f064fb5f8ff2ed8f9f3431a03_Tracy_StandingCrossbowShot_3.png",
+          "name": "Tracy_StandingCrossbowShot_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tracy_StandingCrossbowShot_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tracy_StandingCrossbowShot_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 8/bd06687413e04b1047e3435fbedfd8650d0de8d78f30469ba7469e7d02256ea1_Tracy_StandingCrossbowShot_4.png",
+          "name": "Tracy_StandingCrossbowShot_4.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -1702,7 +2549,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 3.1713934320369916,
+        "zoomFactor": 0.993443349825979,
         "windowMask": false
       },
       "objectsGroups": [
@@ -1714,6 +2561,20 @@
             },
             {
               "name": "candle"
+            }
+          ]
+        },
+        {
+          "name": "Invisible",
+          "objects": [
+            {
+              "name": "player"
+            },
+            {
+              "name": "Npc"
+            },
+            {
+              "name": "LightSensor"
             }
           ]
         }
@@ -1764,8 +2625,8 @@
           "name": "flashlight",
           "persistentUuid": "31ab4baa-aa86-4514-834b-fde09b61d302",
           "width": 0,
-          "x": 112,
-          "y": 640,
+          "x": 93,
+          "y": 605,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -2291,12 +3152,28 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Tommy",
+          "name": "Alex",
           "persistentUuid": "3ba14667-436c-42fe-8c03-412e9607f5ea",
           "width": 0,
           "x": 93,
           "y": 633,
           "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tracy",
+          "persistentUuid": "665bb3f0-acae-4382-bdee-e623fe2803b8",
+          "width": 0,
+          "x": 269,
+          "y": 622,
+          "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2425,8 +3302,8 @@
                       "points": [
                         {
                           "name": "item",
-                          "x": 31.5,
-                          "y": 16
+                          "x": 16,
+                          "y": 4
                         }
                       ],
                       "originPoint": {
@@ -2477,39 +3354,60 @@
           "effects": [],
           "behaviors": [
             {
+              "acceleration": 1500,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": false,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            },
+            {
               "name": "Tween",
               "type": "Tween::TweenBehavior"
             }
           ],
           "animations": [
             {
-              "name": "",
+              "name": "On",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "flashlight.png",
+                      "image": "On3",
                       "points": [
                         {
                           "name": "Light",
-                          "x": 32,
-                          "y": 15.5
+                          "x": 31.5,
+                          "y": 9
                         }
                       ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 16,
-                        "y": 16
+                        "x": 15.5,
+                        "y": 12.5
                       },
                       "centerPoint": {
                         "automatic": false,
                         "name": "centre",
-                        "x": 16,
-                        "y": 16
+                        "x": 15,
+                        "y": 8.5
                       },
                       "customCollisionMask": [
                         [
@@ -2523,11 +3421,66 @@
                           },
                           {
                             "x": 32,
-                            "y": 32
+                            "y": 16
                           },
                           {
                             "x": 0,
-                            "y": 32
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Off",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "flashlight3",
+                      "points": [
+                        {
+                          "name": "Light",
+                          "x": 31.5,
+                          "y": 9
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 15.5,
+                        "y": 12.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 15,
+                        "y": 8.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
                           }
                         ]
                       ]
@@ -2543,7 +3496,50 @@
                 {
                   "looping": false,
                   "timeBetweenFrames": 0.08,
-                  "sprites": []
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "flashlight.png",
+                      "points": [
+                        {
+                          "name": "Light",
+                          "x": 31.5,
+                          "y": 9
+                        }
+                      ],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 15.5,
+                        "y": 12.5
+                      },
+                      "centerPoint": {
+                        "automatic": false,
+                        "name": "centre",
+                        "x": 15,
+                        "y": 8.5
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 16
+                          },
+                          {
+                            "x": 0,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
                 }
               ]
             }
@@ -2619,14 +3615,14 @@
                       ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 15.5,
-                        "y": 31
+                        "x": 17,
+                        "y": 61
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 15,
-                        "y": 26.5
+                        "x": 16,
+                        "y": 35.5
                       },
                       "customCollisionMask": [
                         [
@@ -2661,14 +3657,14 @@
                       ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 15.5,
-                        "y": 31
+                        "x": 17,
+                        "y": 61
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 15,
-                        "y": 26.5
+                        "x": 16,
+                        "y": 35.5
                       },
                       "customCollisionMask": [
                         [
@@ -2703,14 +3699,14 @@
                       ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 15.5,
-                        "y": 31
+                        "x": 17,
+                        "y": 61
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 15,
-                        "y": 26.5
+                        "x": 16,
+                        "y": 35.5
                       },
                       "customCollisionMask": [
                         [
@@ -2745,14 +3741,14 @@
                       ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 15.5,
-                        "y": 31
+                        "x": 17,
+                        "y": 61
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 15,
-                        "y": 26.5
+                        "x": 16,
+                        "y": 35.5
                       },
                       "customCollisionMask": [
                         [
@@ -2799,14 +3795,14 @@
                       ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 15.5,
-                        "y": 31
+                        "x": 17,
+                        "y": 61
                       },
                       "centerPoint": {
-                        "automatic": true,
+                        "automatic": false,
                         "name": "centre",
-                        "x": 15,
-                        "y": 26.5
+                        "x": 16,
+                        "y": 35.5
                       },
                       "customCollisionMask": [
                         [
@@ -3221,7 +4217,28 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "acceleration": 1500,
+              "canGoDownFromJumpthru": true,
+              "canGrabPlatforms": false,
+              "canGrabWithoutMoving": true,
+              "deceleration": 1500,
+              "gravity": 1000,
+              "ignoreDefaultControls": true,
+              "jumpSpeed": 600,
+              "jumpSustainTime": 0.2,
+              "ladderClimbingSpeed": 150,
+              "maxFallingSpeed": 700,
+              "maxSpeed": 250,
+              "name": "PlatformerObject",
+              "slopeMaxAngle": 60,
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "useLegacyTrajectory": false,
+              "xGrabTolerance": 10,
+              "yGrabOffset": 0
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -3238,13 +4255,13 @@
                       "originPoint": {
                         "name": "origine",
                         "x": 16,
-                        "y": 16
+                        "y": 31.5
                       },
                       "centerPoint": {
                         "automatic": true,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 16.5,
+                        "y": 17.5
                       },
                       "customCollisionMask": [
                         [
@@ -4335,7 +5352,7 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "8ab5f698beea3286c53c09e4f8f19d474e00a068005cebe34826c43833251cb5",
-          "name": "Tommy",
+          "name": "Alex",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -4948,7 +5965,7 @@
               "directions": [
                 {
                   "looping": true,
-                  "timeBetweenFrames": 0.1667,
+                  "timeBetweenFrames": 0.11,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
@@ -6503,6 +7520,2370 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "55cdcc0d7bda200e0684455ee1e1ab67efc6fbee6906d43205a520d5b9b47d78",
+          "name": "Tracy",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Idle1",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1667,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Idle1_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Idle1_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Idle1_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Idle1_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Idle1_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Run",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Run_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Run_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Run_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Run_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Run_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Run_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Crouch",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1667,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Crouch_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Crouch_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Crouch_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Jump",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Jump.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Hurt",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Hurt.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "AerialCrossbowShot",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1667,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_AerialCrossbowShot_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_AerialCrossbowShot_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_AerialCrossbowShot_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_AerialCrossbowShot_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Falling",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Falling.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Idle2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1667,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Idle2_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Idle2_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Idle2_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Idle2_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Idle2_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Idle2_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Idle2_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Idle2_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Idle3",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1667,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Idle3_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Idle3_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Idle3_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Idle3_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_Idle3_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "IdleBlink",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1667,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_IdleBlink_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_IdleBlink_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_IdleBlink_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "LandingAndGetUp",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1667,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_LandingAndGetUp_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_LandingAndGetUp_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_LandingAndGetUp_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_LandingAndGetUp_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "ReloadingCrossbow",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_ReloadingCrossbow_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_ReloadingCrossbow_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_ReloadingCrossbow_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_ReloadingCrossbow_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_ReloadingCrossbow_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_ReloadingCrossbow_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_ReloadingCrossbow_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_ReloadingCrossbow_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_ReloadingCrossbow_9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_ReloadingCrossbow_10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_ReloadingCrossbow_11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_ReloadingCrossbow_12.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_ReloadingCrossbow_13.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_ReloadingCrossbow_14.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_ReloadingCrossbow_15.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_ReloadingCrossbow_16.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "StandingCrossbowShot",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1667,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_StandingCrossbowShot_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_StandingCrossbowShot_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_StandingCrossbowShot_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tracy_StandingCrossbowShot_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 17,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 6
+                          },
+                          {
+                            "x": 24,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -6510,12 +9891,6 @@
         "children": [
           {
             "objectName": "player"
-          },
-          {
-            "objectName": "flashlight"
-          },
-          {
-            "objectName": "candle"
           },
           {
             "objectName": "light"
@@ -6548,10 +9923,15 @@
             "objectName": "Npc"
           },
           {
-            "objectName": "battery"
-          },
-          {
-            "objectName": "Battery"
+            "folderName": "Characters",
+            "children": [
+              {
+                "objectName": "Tracy"
+              },
+              {
+                "objectName": "Alex"
+              }
+            ]
           },
           {
             "folderName": "Trees and Props",
@@ -6580,6 +9960,23 @@
             ]
           },
           {
+            "folderName": "Items",
+            "children": [
+              {
+                "objectName": "Battery"
+              },
+              {
+                "objectName": "candle"
+              },
+              {
+                "objectName": "flashlight"
+              },
+              {
+                "objectName": "battery"
+              }
+            ]
+          },
+          {
             "folderName": "Grass",
             "children": [
               {
@@ -6587,14 +9984,6 @@
               },
               {
                 "objectName": "GrassLeft"
-              },
-              {
-                "folderName": "Characters",
-                "children": [
-                  {
-                    "objectName": "Tommy"
-                  }
-                ]
               },
               {
                 "objectName": "GrassBottom"
@@ -7457,6 +10846,79 @@
                 "player.PointX(\"item\")",
                 "=",
                 "player.PointY(\"item\")"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlippedX"
+              },
+              "parameters": [
+                "player",
+                "Flippable"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "item_pickedup_flashlight",
+                "True",
+                "="
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "flashlight",
+                "Flippable",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "FlippableCapability::FlippableBehavior::FlippedX"
+              },
+              "parameters": [
+                "player",
+                "Flippable"
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "item_pickedup_flashlight",
+                "True",
+                "="
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "flashlight",
+                "Flippable",
+                "no"
               ]
             }
           ]
@@ -8690,6 +12152,17 @@
               "parameters": [
                 "light"
               ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "flashlight",
+                "Animation",
+                "=",
+                "\"Off\""
+              ]
             }
           ]
         },
@@ -8715,6 +12188,17 @@
               "parameters": [
                 "light",
                 ""
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "flashlight",
+                "Animation",
+                "=",
+                "\"On\""
               ]
             }
           ]
@@ -8940,7 +12424,7 @@
                 "value": "MettreXY"
               },
               "parameters": [
-                "Tommy",
+                "Alex",
                 "=",
                 "player.X()",
                 "=",
@@ -8968,7 +12452,7 @@
                 "value": "FlippableCapability::FlippableBehavior::FlipX"
               },
               "parameters": [
-                "Tommy",
+                "Alex",
                 "Flippable",
                 "yes"
               ]
@@ -8995,7 +12479,7 @@
                 "value": "FlippableCapability::FlippableBehavior::FlipX"
               },
               "parameters": [
-                "Tommy",
+                "Alex",
                 "Flippable",
                 "no"
               ]
@@ -9010,93 +12494,277 @@
           "name": "Animation",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
-          "events": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Movement"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsOnFloor"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Alex",
+                    "Animation",
+                    "=",
+                    "\"Idle Poses\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlatformBehavior::IsOnFloor"
+                  },
+                  "parameters": [
+                    "player",
+                    "PlatformerObject"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "item_pickedup_flashlight",
+                    "=",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "item_pickedup_candle",
+                    "=",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Alex",
+                    "Animation",
+                    "=",
+                    "\"Walking\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Pickup"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Or"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "item_pickedup_candle",
+                        "True",
+                        "="
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "item_pickedup_flashlight",
+                        "True",
+                        "="
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Alex",
+                    "Animation",
+                    "=",
+                    "\"Holding Object Walking\""
+                  ]
+                }
+              ]
+            },
+            {
+              "colorB": 224,
+              "colorG": 16,
+              "colorR": 189,
+              "creationTime": 0,
+              "name": "NPC - Tracy",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "Tracy",
+                        "=",
+                        "Npc.X()",
+                        "=",
+                        "Npc.Y()"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Distance"
+                      },
+                      "parameters": [
+                        "player",
+                        "Npc",
+                        "50",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                      },
+                      "parameters": [
+                        "player",
+                        "Flippable"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "Tracy",
+                        "Flippable",
+                        "no"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Distance"
+                      },
+                      "parameters": [
+                        "player",
+                        "Npc",
+                        "50",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                      },
+                      "parameters": [
+                        "player",
+                        "Flippable"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "FlippableCapability::FlippableBehavior::FlipX"
+                      },
+                      "parameters": [
+                        "Tracy",
+                        "Flippable",
+                        "yes"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            }
+          ],
           "parameters": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 109,
-            "g": 230,
-            "r": 255,
-            "textB": 0,
-            "textG": 0,
-            "textR": 0
-          },
-          "comment": "Movement"
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "inverted": true,
-                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
-              },
-              "parameters": [
-                "player",
-                "PlatformerObject"
-              ]
-            },
-            {
-              "type": {
-                "value": "PlatformBehavior::IsOnFloor"
-              },
-              "parameters": [
-                "player",
-                "PlatformerObject"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Tommy",
-                "Animation",
-                "=",
-                "\"Idle Poses\""
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
-              },
-              "parameters": [
-                "player",
-                "PlatformerObject"
-              ]
-            },
-            {
-              "type": {
-                "value": "PlatformBehavior::IsOnFloor"
-              },
-              "parameters": [
-                "player",
-                "PlatformerObject"
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-              },
-              "parameters": [
-                "Tommy",
-                "Animation",
-                "=",
-                "\"Walking\""
-              ]
-            }
-          ]
         }
       ]
     }
