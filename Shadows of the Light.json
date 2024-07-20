@@ -512,6 +512,695 @@
         "name": "Battery",
         "smoothed": false,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Falling Poses_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Falling Poses_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/ed49e1e8fdb4587b30d05476c8a36b7d716f0569124813ef7d311cb97a81ce40_Tommy_Falling Poses_1.png",
+          "name": "Tommy_Falling Poses_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Falling Poses_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Falling Poses_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/879a5b837fe6067fb3a8a00d818703528560aeb183ee00d2322405bc5dfa4080_Tommy_Falling Poses_2.png",
+          "name": "Tommy_Falling Poses_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Holding Object Falling.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Holding Object Falling.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/25b9ec4579c3418c8cd0bbdff2465ef6d26a4dfa8e2f2a1ecddb305ef208683a_Tommy_Holding Object Falling.png",
+          "name": "Tommy_Holding Object Falling.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Holding Object Jumping.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Holding Object Jumping.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/682e54745e4ca18c23dd2d4d9d225bc6fc070d36399d532ada3e0fefdd668ccb_Tommy_Holding Object Jumping.png",
+          "name": "Tommy_Holding Object Jumping.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Holding Object Landed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Holding Object Landed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/74c78d9b93e7c08ffa617fae8e12e283406cc64b551953f366133186812beb30_Tommy_Holding Object Landed.png",
+          "name": "Tommy_Holding Object Landed.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Holding Object Standing.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Holding Object Standing.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/1914bb9bfaf8a092fd3e08b8792a1a238760a690ebbdb1adcf45101a6f8852c3_Tommy_Holding Object Standing.png",
+          "name": "Tommy_Holding Object Standing.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Holding Object Walking_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Holding Object Walking_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/1f1c2cbc4749b89c1718135e656ae3109cb41390f0e6ea7708f238addd893b16_Tommy_Holding Object Walking_1.png",
+          "name": "Tommy_Holding Object Walking_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Holding Object Walking_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Holding Object Walking_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/50c1d68b4c982492f005cc519cf0d10942ffca4ed8063dcc019a2dd4bedda26d_Tommy_Holding Object Walking_2.png",
+          "name": "Tommy_Holding Object Walking_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Holding Object Walking_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Holding Object Walking_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/00895b6060b8c0080a3c2723fb8d175e2e6cc5eab238a975321c1bca2c5e7758_Tommy_Holding Object Walking_3.png",
+          "name": "Tommy_Holding Object Walking_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Holding Object Walking_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Holding Object Walking_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/97a49e515636babf27daee3ee84a6ecd8feef0e79151934eae2f5194f2b6abce_Tommy_Holding Object Walking_4.png",
+          "name": "Tommy_Holding Object Walking_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Holding Object Walking_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Holding Object Walking_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/e2e8339b72f371fe2dd111a6152c41c4a3680c4b92ecfbee5b7c876f34465a22_Tommy_Holding Object Walking_5.png",
+          "name": "Tommy_Holding Object Walking_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Holding Object Walking_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Holding Object Walking_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/34377d726f0c63b7e51c2e3c009ec91578a2a94ea74ebd1767c1d9849a613e98_Tommy_Holding Object Walking_6.png",
+          "name": "Tommy_Holding Object Walking_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Hurt.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Hurt.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/6208ce72ea72fa0ae5313c9b240ab3381578d12213deaaff3dbda2ba8653e3bb_Tommy_Hurt.png",
+          "name": "Tommy_Hurt.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Idle Poses_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Idle Poses_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/0971df3cf0fdaed0669aed6f5a1b23b8cc1b1be28427906fea7b6c59c18cfba6_Tommy_Idle Poses_1.png",
+          "name": "Tommy_Idle Poses_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Idle Poses_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Idle Poses_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/036b956bc7865f096ddab39f4ef7952797eb7e475c4ba170b50062bce84c5a37_Tommy_Idle Poses_2.png",
+          "name": "Tommy_Idle Poses_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Idle Poses_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Idle Poses_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/6715116212060039e223c40aae5734fe8223a8a28b9824f347a33fdcc0297377_Tommy_Idle Poses_3.png",
+          "name": "Tommy_Idle Poses_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Idle Poses_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Idle Poses_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/968dd035dbc2b5a6fdcb1ccd931fe9a7d5d75209c69c84c74b4075729e8fbf7e_Tommy_Idle Poses_4.png",
+          "name": "Tommy_Idle Poses_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Jumping.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Jumping.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/cd73462c6f3658b55273f20284a8cea66f5ddda580a8a256693c1f0ed43f3443_Tommy_Jumping.png",
+          "name": "Tommy_Jumping.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Kick.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Kick.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/32fd9c8adc649faf6707c549653078304dbef0624164473f2fc9ad5d5e786fdc_Tommy_Kick.png",
+          "name": "Tommy_Kick.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Kneeling.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Kneeling.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/e970256055dad07b57f9d2e222b5ba7bde9ec038d0c9ea252c06f5e8b2c647a6_Tommy_Kneeling.png",
+          "name": "Tommy_Kneeling.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Looking Up_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Looking Up_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/11280fbe99601d1aec37f1ef7eb6180f690f4d6e725ddd2d3dee9ce3f1e583dc_Tommy_Looking Up_1.png",
+          "name": "Tommy_Looking Up_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Looking Up_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Looking Up_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/098efb4eb13a5f3c4225b93d597ec1a37cf83b28c309ef5e94c540340a343763_Tommy_Looking Up_2.png",
+          "name": "Tommy_Looking Up_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Picking Up Object.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Picking Up Object.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/281bcd97b1ba88db92c26f464bcada03a110fe2429ee2e60195df3515db88436_Tommy_Picking Up Object.png",
+          "name": "Tommy_Picking Up Object.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Pushing Object_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Pushing Object_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/e66e004b4ea59792f9355e08490095f58bbfc73ec91c9655f129defa44192881_Tommy_Pushing Object_1.png",
+          "name": "Tommy_Pushing Object_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Pushing Object_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Pushing Object_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/47881c4171e07d735241f357b9883a62f816437f8d40a4b60addc7cc3cd9c96b_Tommy_Pushing Object_2.png",
+          "name": "Tommy_Pushing Object_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Pushing Object_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Pushing Object_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/d2b2336c88c80172e41b54b134b6a400a1ee2bd1ec5666b4563b61ef5f56261c_Tommy_Pushing Object_3.png",
+          "name": "Tommy_Pushing Object_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Pushing Object_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Pushing Object_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/c380203694fcc39744fd3a2a50e2c4f2083c8948b8fa2f76c5976058056558f2_Tommy_Pushing Object_4.png",
+          "name": "Tommy_Pushing Object_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Running_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Running_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/a68f98a75519e439260163a8fa424295b5b362a66ec8809eb960a6052994d792_Tommy_Running_1.png",
+          "name": "Tommy_Running_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Running_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Running_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/fb3b6aa52a0a598bfffe96f71a32e753e3236d574e3cad780469e67e3cbb50a0_Tommy_Running_2.png",
+          "name": "Tommy_Running_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Running_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Running_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/02a5442cd66dd36326d372941232dd48224ce56c65234c009b45e6652d5263d3_Tommy_Running_3.png",
+          "name": "Tommy_Running_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Running_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Running_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/60f4aec2f388d89f818527d94cbbd35555c9fde68d161158cbe41527fb87be35_Tommy_Running_4.png",
+          "name": "Tommy_Running_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Running_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Running_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/4943b84641ac595245b7804908a0fae9693f3ba944343871b83d05ded800e67c_Tommy_Running_5.png",
+          "name": "Tommy_Running_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Running_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Running_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/cf42c6bd8eb1ba11d5d4225d482406331a8fa3b08916b7c8dff1331bb78db250_Tommy_Running_6.png",
+          "name": "Tommy_Running_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Running_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Running_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/f28f2002ee1b6433d2b9d37ac0d3e5e0e4f736b4443e1ba70590295b90a611c9_Tommy_Running_7.png",
+          "name": "Tommy_Running_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Running_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Running_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/1fbac18d86f2282dd2f04b2caa2951bab2070c7c2b2c75e7618d915ee8ba2329_Tommy_Running_8.png",
+          "name": "Tommy_Running_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Sleeping.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Sleeping.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/a02e0c3f750b028b349e2065bcc02f43b0b1c00817831a9073877b59f0822619_Tommy_Sleeping.png",
+          "name": "Tommy_Sleeping.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Throw Object.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Throw Object.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/e8019048745113a64d11c02d25f6beb93bf36071b7d16384e587933c48372e63_Tommy_Throw Object.png",
+          "name": "Tommy_Throw Object.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Touch Ground Landing.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Touch Ground Landing.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/056a01af055c3b209fd1019bc5478ea045d2d2bb5e1ce7e37cd1fa2a3badf11b_Tommy_Touch Ground Landing.png",
+          "name": "Tommy_Touch Ground Landing.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Turn Around Poses_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Turn Around Poses_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/c7a927660eedea21bf5ea726ecef7e7c57c9c94a958352c7c3bb751c606e3af5_Tommy_Turn Around Poses_1.png",
+          "name": "Tommy_Turn Around Poses_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Turn Around Poses_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Turn Around Poses_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/0971df3cf0fdaed0669aed6f5a1b23b8cc1b1be28427906fea7b6c59c18cfba6_Tommy_Turn Around Poses_2.png",
+          "name": "Tommy_Turn Around Poses_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Turn Around Poses_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Turn Around Poses_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/57941947a72ce86c36860a1ce8b494725a937eb481440311ddb46adc20061824_Tommy_Turn Around Poses_3.png",
+          "name": "Tommy_Turn Around Poses_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Turn Around Poses_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Turn Around Poses_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/4cb35749d387cae3dba26cab5db7efa33be27989b1c177dae56b336930794632_Tommy_Turn Around Poses_4.png",
+          "name": "Tommy_Turn Around Poses_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Turn Around Poses_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Turn Around Poses_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/d34c092204bd62638ab5e8d04324732b293070f3bcbd4277fde81c8d70616b3d_Tommy_Turn Around Poses_5.png",
+          "name": "Tommy_Turn Around Poses_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Turn Around Poses_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Turn Around Poses_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/a769a003bdece27d8808837fb86fbbf5c051892e5c0e8059985c383ce8316903_Tommy_Turn Around Poses_6.png",
+          "name": "Tommy_Turn Around Poses_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Turn Around Poses_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Turn Around Poses_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/7961994789dd7257e23b761989570805e4fa3a35671a3de1db1a337cb6ca6f99_Tommy_Turn Around Poses_7.png",
+          "name": "Tommy_Turn Around Poses_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Turn Around Poses_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Turn Around Poses_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/1b9f0246ead4692b5f2d66123862cf598cad4dabb30d9f58c05a8f5c275c6cab_Tommy_Turn Around Poses_8.png",
+          "name": "Tommy_Turn Around Poses_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Victory Pose.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Victory Pose.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/d7716918cc7410d1c4ab472dd914c74be02317cf1ff5e5aab1634a536b9959b0_Tommy_Victory Pose.png",
+          "name": "Tommy_Victory Pose.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Walking_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Walking_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/5fd910b8b82a129eedc5f95a8bc6cb61640d9c4ff4e93bbefdfb26b7e1b9faf8_Tommy_Walking_1.png",
+          "name": "Tommy_Walking_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Walking_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Walking_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/8a779047ed36a2df6455f54eea5e466fa712c5589b7061782621104e2869b1d4_Tommy_Walking_2.png",
+          "name": "Tommy_Walking_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Walking_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Walking_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/866f8c4a951b2b2093786b4a0c440484ceb160f624afd819b98816d3741a5562_Tommy_Walking_3.png",
+          "name": "Tommy_Walking_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Walking_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Walking_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/fbb0e59d63beac9a900ef8c5b9241c807da6f7087563ea0085ae0ffa5bd3ba34_Tommy_Walking_4.png",
+          "name": "Tommy_Walking_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Walking_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Walking_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/7b667efa5bb1d219bdf8e08a316d736b6f270a668a99dde4fd65ba8727ac7c16_Tommy_Walking_5.png",
+          "name": "Tommy_Walking_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Tommy_Walking_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Tommy_Walking_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GrafxKid Pack/Character Pack 3/Tommy/980ad636945be6df6f3c109a71fc508716c226266cccafca69eb9921129424ca_Tommy_Walking_6.png",
+          "name": "Tommy_Walking_6.png"
+        }
       }
     ],
     "resourceFolders": []
@@ -1013,7 +1702,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 2.7773965524836086,
+        "zoomFactor": 3.1713934320369916,
         "windowMask": false
       },
       "objectsGroups": [
@@ -1059,8 +1748,8 @@
           "name": "player",
           "persistentUuid": "0388906e-aee3-4e9c-ad4f-4d387100960a",
           "width": 0,
-          "x": 71,
-          "y": 630,
+          "x": 41,
+          "y": 638,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -1595,11 +2284,27 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tommy",
+          "persistentUuid": "3ba14667-436c-42fe-8c03-412e9607f5ea",
+          "width": 0,
+          "x": 93,
+          "y": 633,
+          "zOrder": 16,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "player",
           "type": "Sprite",
@@ -1720,37 +2425,37 @@
                       "points": [
                         {
                           "name": "item",
-                          "x": 32,
-                          "y": 15.5
+                          "x": 31.5,
+                          "y": 16
                         }
                       ],
                       "originPoint": {
                         "name": "origine",
-                        "x": 16,
-                        "y": 16
+                        "x": 17,
+                        "y": 30.5
                       },
                       "centerPoint": {
                         "automatic": true,
                         "name": "centre",
-                        "x": 0,
-                        "y": 0
+                        "x": 16.5,
+                        "y": 17
                       },
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
+                            "x": 7.5,
                             "y": 0
                           },
                           {
-                            "x": 32,
+                            "x": 24,
                             "y": 0
                           },
                           {
-                            "x": 32,
+                            "x": 24.5,
                             "y": 32
                           },
                           {
-                            "x": 0,
+                            "x": 7.5,
                             "y": 32
                           }
                         ]
@@ -2677,6 +3382,8 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "PlatformerObject",
+              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1500,
               "canGoDownFromJumpthru": true,
               "canGrabPlatforms": false,
@@ -2689,9 +3396,7 @@
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 700,
               "maxSpeed": 250,
-              "name": "PlatformerObject",
               "slopeMaxAngle": 60,
-              "type": "PlatformBehavior::PlatformerObjectBehavior",
               "useLegacyTrajectory": false,
               "xGrabTolerance": 10,
               "yGrabOffset": 0
@@ -3626,6 +4331,2178 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "8ab5f698beea3286c53c09e4f8f19d474e00a068005cebe34826c43833251cb5",
+          "name": "Tommy",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Walking",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.115,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Walking_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Walking_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Walking_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Walking_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Walking_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Walking_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Hurt",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Hurt.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Kick",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Kick.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Falling Poses",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.5,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Falling Poses_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Falling Poses_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Holding Object Falling",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Holding Object Falling.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Holding Object Jumping",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Holding Object Jumping.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Holding Object Landed",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Holding Object Landed.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Holding Object Standing",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Holding Object Standing.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Holding Object Walking",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1667,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Holding Object Walking_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Holding Object Walking_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Holding Object Walking_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Holding Object Walking_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Holding Object Walking_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Holding Object Walking_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Idle Poses",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Idle Poses_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Idle Poses_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Idle Poses_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Idle Poses_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Jumping",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Jumping.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Kneeling",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Kneeling.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Looking Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.5,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Looking Up_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Looking Up_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Picking Up Object",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Picking Up Object.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Pushing Object",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Pushing Object_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Pushing Object_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Pushing Object_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Pushing Object_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Running",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Running_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Running_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Running_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Running_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Running_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Running_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Running_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Running_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Sleeping",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Sleeping.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Throw Object",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Throw Object.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Touch Ground Landing",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Touch Ground Landing.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Turn Around Poses",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Turn Around Poses_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Turn Around Poses_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Turn Around Poses_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Turn Around Poses_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Turn Around Poses_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Turn Around Poses_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Turn Around Poses_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Turn Around Poses_8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Victory Pose",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Tommy_Victory Pose.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 16.5,
+                        "y": 31.5
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 8,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 3
+                          },
+                          {
+                            "x": 25,
+                            "y": 32
+                          },
+                          {
+                            "x": 8,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -3710,6 +6587,14 @@
               },
               {
                 "objectName": "GrassLeft"
+              },
+              {
+                "folderName": "Characters",
+                "children": [
+                  {
+                    "objectName": "Tommy"
+                  }
+                ]
               },
               {
                 "objectName": "GrassBottom"
@@ -3900,6 +6785,13 @@
                 "includeConfig": 0
               },
               "target": "player_y"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Link",
+              "include": {
+                "includeConfig": 0
+              },
+              "target": "Player-Sprites"
             }
           ],
           "parameters": []
@@ -6016,6 +8908,192 @@
                 "Text",
                 "=",
                 "ToString(ceil(DistanceBetweenPositions(light.X(),light.Y(),LightSensor.X(),LightSensor.Y())))"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "associatedLayout": "game",
+      "lastChangeTimeStamp": 0,
+      "name": "Player-Sprites",
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Position and Direction"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreXY"
+              },
+              "parameters": [
+                "Tommy",
+                "=",
+                "player.X()",
+                "=",
+                "player.Y()"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlippedX"
+              },
+              "parameters": [
+                "player",
+                "Flippable"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "Tommy",
+                "Flippable",
+                "yes"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "FlippableCapability::FlippableBehavior::FlippedX"
+              },
+              "parameters": [
+                "player",
+                "Flippable"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "FlippableCapability::FlippableBehavior::FlipX"
+              },
+              "parameters": [
+                "Tommy",
+                "Flippable",
+                "no"
+              ]
+            }
+          ]
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Animation",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Movement"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "inverted": true,
+                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Tommy",
+                "Animation",
+                "=",
+                "\"Idle Poses\""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlatformBehavior::IsOnFloor"
+              },
+              "parameters": [
+                "player",
+                "PlatformerObject"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+              },
+              "parameters": [
+                "Tommy",
+                "Animation",
+                "=",
+                "\"Walking\""
               ]
             }
           ]
